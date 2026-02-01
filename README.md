@@ -1,3 +1,5 @@
+![Calculator Screenshot](image.png)
+
 # Calculator (CustomTkinter)
 
 Simple desktop calculator built with Python and CustomTkinter.

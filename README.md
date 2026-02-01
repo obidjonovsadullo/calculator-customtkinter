@@ -1,4 +1,4 @@
-![Calculator Screenshot](image.png)
+![Calculator Screenshot](python_1day/image.png)
 
 # Calculator (CustomTkinter)
 

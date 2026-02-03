@@ -1,4 +1,3 @@
-![Calculator Screenshot](python_1day/image.png)
 
 # Calculator (CustomTkinter)
 
@@ -17,3 +16,5 @@ Simple desktop calculator built with Python and CustomTkinter.
 ## Run
 pip install customtkinter
 python calculator.py
+
+![Calculator Screenshot](python_1day/image.png)
